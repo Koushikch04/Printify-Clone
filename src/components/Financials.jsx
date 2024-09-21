@@ -1,6 +1,6 @@
 import React from "react";
 import "./Financials.css";
-import icon from "./Financials.svg";
+import icon from "./financials.svg";
 function Financials() {
   return (
     <div className="financials">
