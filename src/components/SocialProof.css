@@ -1,0 +1,26 @@
+.social-proof {
+  background-color: #f7f7f7;
+  margin-top: 150px;
+}
+.social-proof-wrapper {
+  padding: 140px 24px 0;
+  margin: 0 150px;
+}
+
+.social-proof_description {
+  display: flex;
+  align-items: center;
+}
+
+.social-proof_title h2 {
+  font-size: 40px;
+  margin: 0 64px 0 0;
+}
+
+.social-proof_text p {
+  font-size: 16px;
+}
+.swiper-container {
+  display: flex; /* Make it a flex container */
+  justify-content: center;
+}

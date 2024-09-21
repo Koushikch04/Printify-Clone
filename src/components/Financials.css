@@ -1,0 +1,71 @@
+.financials-wrapper {
+  margin: 167px;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.financials-image {
+  position: absolute;
+  right: 0%;
+  bottom: -1%;
+}
+
+.financials-description {
+  padding: 65px 648px 65px 105px;
+  background: #203741;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.financials-description-wrapper h2 {
+  color: white;
+}
+.financials-title {
+  font-size: 40px;
+}
+.financials-title-2 {
+  padding: 10px 0 0;
+  font-size: 16px;
+}
+.financials_explanation_table {
+  background: #17262b;
+  margin: 32px 0 0;
+  padding: 40px;
+  margin-bottom: 40px;
+}
+.financials_explanation_table .financials_explanation_table_row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.financials_explanation_table .financials_explanation_table_row p {
+  color: white;
+}
+
+.financial_explanation_summary {
+  /* margin: 32px 0 0; */
+  padding: 24px 0 0;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.financial_explanation_summary h5 {
+  color: #18c75a;
+  font-size: 20px;
+}
+
+.primary_selling {
+  color: white;
+  background-color: #39b75d;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.financial_selling_benefits {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #c4c7c8;
+}

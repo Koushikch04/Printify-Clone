@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .feature-cards {
+    flex-direction: column;
+  }
+
+  .feature-card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
