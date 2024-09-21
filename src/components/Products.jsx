@@ -11,7 +11,6 @@ const Products = () => {
       </div>
       <div className="product-wrapper">
         <div className="product-description">
-          {/* <img src="" alt="Product preview" className="preview-image" /> */}
           <img src={Product} alt="Product preview" className="preview-image" />
           <div className="product-details">
             <h2>Easily add your design to a wide range of products</h2>

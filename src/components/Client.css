@@ -30,17 +30,17 @@
 }
 
 .swiper-slide {
-  display: flex; /* Center content */
-  justify-content: center; /* Center content */
-  align-items: center; /* Center content */
-  flex-direction: column; /* Stack content vertically */
-  width: 100%; /* Full width for proper alignment */
-  padding: 1rem; /* Padding for spacing */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 1rem;
 }
 
 .client__card {
   text-align: center;
-  width: 100%; /* Full width to fill the slide */
+  width: 100%;
 }
 
 .client__card p {
@@ -50,10 +50,7 @@
 }
 
 .client__card img {
-  /* margin-bottom: 1rem; */
   max-width: 70px;
-  /* margin-inline: auto; */
-  /* border-radius: 100%; */
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -76,6 +73,6 @@
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .client__swiper {
-    padding: 1.5rem; /* Less padding for smaller screens */
+    padding: 1.5rem;
   }
 }

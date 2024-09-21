@@ -45,3 +45,9 @@ Make sure you have the following installed on your machine:
    ```bash
    npm run dev
    ```
+
+4.Live Demo
+
+```bash
+https://printify-clone-bice.vercel.app/
+```
